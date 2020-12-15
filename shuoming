@@ -1,7 +1,8 @@
 课程项目：
+--
 参考git实现原理，使用Java实现blob、tree、commit核心存储结构
-功能：
-1.Commit：提交commit，可以使用”git log”查看commit历史
+#功能：
+##1.Commit：提交commit，可以使用”git log”查看commit历史
 2.回滚 使用”git reset” 回滚到指定分支
 3.分支 创建分支、实现分支间切换
 
